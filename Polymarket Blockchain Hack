@@ -29,4 +29,7 @@ Sent $1800 to 0xCA73dFF663b0B05e8D0Ef3aB1FF21C231B789d02
 Sent $193K to deBridge Cross Chain Proxy Forwarder : 2,188,454.05 POL
 ~$193,256 of POL began at deBridge (cross-chain) and ended at the OKX Labs DEX Router (then wrapped into WPOL)
 
-
+➼ Cross-chain arrival: A large amount of POL (~$193k) came in via deBridge
+➼ Wrapping: Most of that POL was wrapped into WPOL
+➼ DEX routing: The OKX Labs DEX Router then performed multiple token swaps (involving WPOL, USDT0, and WETH)
+➼ Uniswap V4 interaction: A smaller portion of POL was sent into a Uniswap V4 pool
