@@ -1,0 +1,32 @@
+DATE: 29 October 2026
+PLATFORM: POLYMARKET
+LOSS: $2.5M (28,636,284.45 POL)
+CAUSE: DebugBear Monitoring Script [C7xcKKrjUnXK.js] of Polymarket was replaced with a wallet drainer (RUM Script)
+HARD-CODED WALLET: 0x3F99139F1C5854bb628c2e576Aaf638e99dFfc18
+
+
+📌MAIN: 0x3F99139F1C5854bb628c2e576Aaf638e99dFfc18
+================================================
+Sent $1.6M to 0xe4C4C39C1733e1C7c06B79f97ED442B68Df41EC6 : 18,613,584 POL
+Sent $378K to 0x5392587814Ce8c6af6789764f88e5e9AB0b9962C : 4,295,442 POL
+Sent $515K to 0xc91ee0574a14446DE200923729c349B9CAE19b60 : 5,727,258.44 POL
+
+📌1. 0xe4C4C39C1733e1C7c06B79f97ED442B68Df41EC6
+=============================================
+Sent ~$300K to 0x3f7019221a925537DC20767C38e80A7127fb1Ffa
+Sent $9K to MetaMask Meta Bridge : 100,000 POL
+
+📌2. 0xc91ee0574a14446DE200923729c349B9CAE19b60 
+==============================================
+Sent $150K to ERC20 Router Relay [0x0729E2a4716d9f7dD17858d5d504426D228697f7]
+
+📌3. 0x5392587814Ce8c6af6789764f88e5e9AB0b9962C 
+=============================================
+Sent $1800 to 0xCA73dFF663b0B05e8D0Ef3aB1FF21C231B789d02
+
+📌4. 0x3f7019221a925537DC20767C38e80A7127fb1Ffa
+==============================================
+Sent $193K to deBridge Cross Chain Proxy Forwarder : 2,188,454.05 POL
+~$193,256 of POL began at deBridge (cross-chain) and ended at the OKX Labs DEX Router (then wrapped into WPOL)
+
+
